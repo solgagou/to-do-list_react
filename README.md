@@ -24,8 +24,8 @@ Aplicación de lista de tareas que consume datos de una API externa, con soporte
 
 ## 🚀 Ejecutar el proyecto
 
-- npm install    _Para instalar las dependencias_
-- npm run dev    _Para ejecutar el proyecto en desarrollo_
-- npm run build  _Para crear la versión de producción del proyecto_
+- npm install    //_Para instalar las dependencias_
+- npm run dev    //_Para ejecutar el proyecto en desarrollo_
+- npm run build  //_Para crear la versión de producción del proyecto_
 
 
